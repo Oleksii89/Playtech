@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f9eaaca-c788-4825-8bf6-7ea88dc3728e" name="Changes" comment="">
+    <list default="true" id="8f9eaaca-c788-4825-8bf6-7ea88dc3728e" name="Changes" comment="add MainPage">
+      <change afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/settings.proerties.properties.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/settings.proerties.properties.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/web/BaseWebTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/web/BaseWebTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/web/OpenTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/web/OpenTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,11 +37,17 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/oleks/IdeaProjects/playtech",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\oleks\IdeaProjects\playtech" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="OpenTest.openAndCheck" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Playtech" />
@@ -77,6 +80,14 @@
       <option name="presentableId" value="Default" />
       <updated>1679574781343</updated>
     </task>
+    <task id="LOCAL-00001" summary="add MainPage">
+      <created>1679577320643</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679577320643</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -89,5 +100,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add MainPage" />
+    <option name="LAST_COMMIT_MESSAGE" value="add MainPage" />
   </component>
 </project>
